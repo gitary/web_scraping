@@ -1,0 +1,99 @@
+title,presenter,session,schedule
+Perlocution vs Illocution: How Different Interpretations of the Act of Explaining Impact on the Evaluation of Explanations and XAI,"Francesco Sovrano, Fabio Vitali",interdisciplinary-perspectives-on-xai,Wed 9:30 am - 11:00 am
+Speeding things up. Can explainability improve human learning?,"Jakob Mannmeusel, Mario Rothfelder, and Samaneh Khoshrou",interdisciplinary-perspectives-on-xai,Wed 9:30 am - 11:00 am
+Statutory Professions in AI governance and their consequences for explainable AI,"Labhaoise NiFhaolain, Andrew Hines, Vivek Nallur",interdisciplinary-perspectives-on-xai,Wed 9:30 am - 11:00 am
+"Dear XAI Community, We Need to Talk! Fundamental Misconceptions in Current XAI Research","Timo Freiesleben, Gunnar Konig",interdisciplinary-perspectives-on-xai,Wed 9:30 am - 11:00 am
+XAI Requirements in Smart Production Processes: A Case Study,"Deborah Baum, Kevin Baum, Timo P. Gros, Verena Wolf",interdisciplinary-perspectives-on-xai,Wed 9:30 am - 11:00 am
+iPDP: On Partial Dependence Plots in Dynamic Modeling Scenarios,"Maximilian Muschalik, Fabian Fumagalli, Rohit Jagtani, Barbara Hammer, Eyke Hullermeier",model-agnostic-explanations,Wed 9:30 am - 11:00 am
+Algorithm-Agnostic Feature Attributions for Clustering,"Christian A. Scholbeck, Henri Funk, Giuseppe Casalicchio",model-agnostic-explanations,Wed 9:30 am - 11:00 am
+Feature Importance versus Feature Influence and What It Signifies for Explainable AI,Kary Framling,model-agnostic-explanations,Wed 9:30 am - 11:00 am
+SAC-FACT: Soft Actor-Critic Reinforcement Learning for Counterfactual Explanations,"Fatima Ezzeddine, Omran Ayoub, Davide Andreoletti, Silvia Giordano",model-agnostic-explanations,Wed 9:30 am - 11:00 am
+PERFEX: Classifier Performance Explanations for Trustworthy AI Systems,"Erwin Walraven, Ajaya Adhikari, Cor J. Veenman",xai-for-decision-making-human-ai-collaboration,Wed 2:30 pm - 3:30 pm
+Explaining Black-Boxes in Federated Learning,"Luca Corbucci, Riccardo Guidotti, Anna Monreale",xai-for-decision-making-human-ai-collaboration,Wed 2:30 pm - 3:30 pm
+Explainable Automated Anomaly Recognition in Failure Analysis: is Deep Learning Doing it Correctly?,"Leonardo Arrighi, Sylvio Barbon Jr., Felice Andrea Pellegrino, Michele Simonato, Marco Zullich",actionable-explainable-ai,Wed 2:30 pm - 3:30 pm
+DExT: Detector Explanation Toolkit,"Deepan Chakravarthi Padmanabhan, Paul G., Plöger, Octavio Arriaga, Matias, Valdenegro-Toro",actionable-explainable-ai,Wed 2:30 pm - 3:30 pm
+Unveiling Black-boxes: Explainable Deep Learning Models for Patent Classification,"Md Shajalal, Sebastian Denef, Md. Rezaul Karim, Alexander Boden, Gunnar Stevens",actionable-explainable-ai,Wed 2:30 pm - 3:30 pm
+Propaganda Detection Robustness through Adversarial Attacks driven by eXplainable AI,"Danilo Cavaliere, Mariacristina Gallo, and Claudio Stanzione",actionable-explainable-ai,Wed 2:30 pm - 3:30 pm
+Explainable performance evaluation in machine learning,Prof. Peter Flach,keynote,Wed 11:30 am - 12:30 pm
+The Duet of Representations and How Explanations Exacerbate It,"Charles Wan, Rodrigo Belo, Leid Zejnilovic, Susana Lavado",xai-for-decision-making-human-ai-collaboration,Wed 2:30 pm - 3:30 pm
+Closing the Loop: Testing ChatGPT to Generate Model Explanations to Improve Human Labelling of Sponsored Content on Social Media,"Thales Bertaglia, Stefan Huber, Catalina Goanta, Gerasimos Spanakis, Adriana Iamnitchi",xai-for-decision-making-human-ai-collaboration,Wed 2:30 pm - 3:30 pm
+HOLMES: HOLonym-MEronym based Semantic inspection for Convolutional Image Classifiers,"Francesco Dibitonto, Fabio Garcea, André Panisson, Alan Perotti, Lia Morra",semantics-and-explainability,Wed 3:30 pm - 4:30 pm
+Beyond One-Hot-Encoding: Injecting Semantics to Drive Image Classifiers,"Alan Perotti, Simone Bertolotto, Eliana Pastor, André Panisson",semantics-and-explainability,Wed 3:30 pm - 4:30 pm
+Finding Spurious Correlations with Function-Semantic Contrast Analysis,"Kirill Bykov, Laura Kopf, Marina M.-C. Höhne",semantics-and-explainability,Wed 3:30 pm - 4:30 pm
+Evaluating the Stability of Semantic Concept Representations in CNNs for Robust Explainability,"Georgii Mikriukov, Gesina Schwalbe, Christian Hellert, Korinna Bade",semantics-and-explainability,Wed 3:30 pm - 4:30 pm
+Handling Missing Values in Local Post-hoc Explainability,"Martina Cinquini, Fosca Giannotti, Riccardo Guidotti, Andrea Mattei",xai-for-decision-making-human-ai-collaboration-b,Wed 3:30 pm - 4:30 pm
+"Necessary and Sufficient Explanations of Multi-Criteria Decision Aiding Models, with and without interacting Criteria","Christophe Labreuche, Roman Bresson",xai-for-decision-making-human-ai-collaboration-b,Wed 3:30 pm - 4:30 pm
+Human-Computer Interaction and Explainability: Intersection and Terminology,"Arthur Picard, Yazan Mualla, Franck, Gechter, Stephane Galland",xai-for-decision-making-human-ai-collaboration-b,Wed 3:30 pm - 4:30 pm
+Explaining Deep Reinforcement Learning-based methods for control of building HVAC systems,"Javier Jiménez-Raboso, Antonio Manjavacas, Alejandro, Campoy-Nieves, Miguel Molina-Solana, Juan Gómez-Romero",xai-for-decision-making-human-ai-collaboration-b,Wed 3:30 pm - 4:30 pm
+Cost of Explainability in AI: an Example with Credit Scoring Models,"Jean Dessain, Nora Bentaleb, Fabien Vinas",explainable-ai-in-finance-cybersecurity,Wed 4:30 pm - 5:30 pm
+Explainable Machine Learning for Bag of Words-based Phishing Detection,"Maria Carla Calzarossa, Paolo Giudici, Rasha Zieni",explainable-ai-in-finance-cybersecurity,Wed 4:30 pm - 5:30 pm
+Lorenz Zonoids for Trustworthy AI,"Paolo Giudici, Emanuela Raffinetti",explainable-ai-in-finance-cybersecurity,Wed 4:30 pm - 5:30 pm
+Evaluating feature relevance XAI in network intrusion detection,"Julian Tritscher, Maximilian Wolf, Andreas Hotho, Daniel Schlor",explainable-ai-in-finance-cybersecurity,Wed 4:30 pm - 5:30 pm
+Evaluating explanations of an Alzheimer’s Disease 18F-FDG Brain PET black-box classifier,"Lisa Anita De Santi, Filippo Bargagna, Maria Filomena Santarelli, Vincenzo Positano",xai-in-biomedicine,Wed 4:30 pm - 5:30 pm
+An Evaluation of Contextual Importance and Utility for Outcome Explanation of Black-box Predictions for medical datasets,"Avleen Malhi, Kary Framling",xai-in-biomedicine,Wed 4:30 pm - 5:30 pm
+The accuracy and faithfullness of AL-DLIME -Active Learning-based Deterministic Local Interpretable Model-Agnostic Explanations: a comparison with LIME and DLIME in Medicine,"Sarah Holm, Luis Macedo",xai-in-biomedicine,Wed 4:30 pm - 5:30 pm
+Understanding Unsupervised Learning Explanations using Contextual Importance and Utility,"Avleen Malhi Vlad Apopei, Kary Framling",xai-in-biomedicine,Wed 4:30 pm - 5:30 pm
+Explaining Model Behavior with Global Causal Analysis,"Marcel Robeer, Floris Bex, Ad Feelders, Henry Prakken",causality-explainable-ai,Thu 9:30 am - 11:00 am
+The Importance of Time in Causal Algorithmic Recourse,"Isacco Beretta, Martina Cinquini",causality-explainable-ai,Thu 9:30 am - 11:00 am
+Counterfactual Explanations for Graph Classification Through the Lenses of Density,"Carlo Abrate, Giulia Preti, Francesco Bonchi",causality-explainable-ai,Thu 9:30 am - 11:00 am
+Ablation Path Saliency,"Justus Sagemuller, Olivier Verdier",causality-explainable-ai,Thu 9:30 am - 11:00 am
+ABC-GAN: Spatially Constrained Counterfactual Generation for Image Classification Explanations,"Dimitry Mindlin, Malte Schilling, Philipp Cimiano",causality-explainable-ai,Thu 9:30 am - 11:00 am
+Adding Why to What? Analyses of an Everyday Explanation,"Lutz Terfloth, Michael Schaffer, Heike M. Buhl, Carsten Schulte",human-centered-explanations-for-xai,Thu 9:30 am - 11:00 am
+Concept Distillation in Graph Neural Networks,"Lucie Charlotte Magister, Pietro Barbiero, Dmitry Kazhdan, Federico Siciliano, Gabriele Ciravegna, Fabrizio Silvestri, Mateja, Jamnik, Pietro Lio",human-centered-explanations-for-xai,Thu 9:30 am - 11:00 am
+For Better or Worse: The Impact of Counterfactual Explanations’ Directionality on User Behavior in xAI,"Ulrike Kuhl, Andre Artelt, Barbara Hammer",human-centered-explanations-for-xai,Thu 9:30 am - 11:00 am
+Towards a Comprehensive Human-Centred Evaluation Framework for Explainable AI,"Ivania Donoso-Guzman, Jeroen Ooge, Denis Parra, Katrien Verbert",human-centered-explanations-for-xai,Thu 9:30 am - 11:00 am
+Development of a human-centred psychometric test for the evaluation of explanations produced by XAI methods,"Giulia Vilone, Luca Longo",human-centered-explanations-for-xai,Thu 9:30 am - 11:00 am
+Evaluating self-attention interpretability through human-grounded experimental protocol,"Milan Bhan, Nina Achache, Victor Legrand, Annabelle Blangero, Nicolas Chesneau",xai-and-natural-language-processing,Thu 11:30 am - 1:00 pm
+Opening the Black Box: Analyzing Attention Weights and Hidden States in Pre-trained Language Models for Non-language Tasks,"Mohamad Ballout, Ulf Krumnack, Gunther Heidemann, Kai-Uwe Kuhnberger",xai-and-natural-language-processing,Thu 11:30 am - 1:00 pm
+From Black Boxes to Conversations: Incorporating XAI in a Conversational Agent,"Van Bach Nguyen, Jörg Schlötterer, Christin Seifert",xai-and-natural-language-processing,Thu 11:30 am - 1:00 pm
+Toward Inclusive Online Environments: Counterfactual-Inspired XAI for Detecting and Interpreting Hateful and Offensive Tweets,"Muhammad Deedahwar Mazhar Qureshi, M. Atif Qureshi, Wael Rashwan",xai-and-natural-language-processing,Thu 11:30 am - 1:00 pm
+Understanding Interpretability: Explainable AI Approaches for Hate Speech Classifiers,"Sargam Yadav, Abhishek Kaushik, Kevin McDaid3",xai-and-natural-language-processing,Thu 11:30 am - 1:00 pm
+XInsight: Revealing Model Insights for GNNs with Flow-based Explanations,"Eli Laird, Ayesh Madushanka, Elfi Kraka, Corey Clark",xai-for-machine-learning-on-graphs-with-ontologies-graph-neural-networks,Thu 11:30 am - 1:00 pm
+What Will Make Misinformation Spread: An XAI Perspective,"Hongbo Bo, Yiwen Wu, Zinuo You, Ryan McConville, Jun Hong, Weiru Liu",xai-for-machine-learning-on-graphs-with-ontologies-graph-neural-networks,Thu 11:30 am - 1:00 pm
+MEGAN: Multi-Explanation Graph Attention Network,"Jonas Teufel, Luca Torresi, Patrick, Reiser, Pascal Friederich",xai-for-machine-learning-on-graphs-with-ontologies-graph-neural-networks,Thu 11:30 am - 1:00 pm
+Quantifying the Intrinsic Usefulness of Attributional Explanations for Graph Neural Networks with Artificial Simulatability Studies,"Jonas Teufel, Luca Torresi, Pascal Friederich",xai-for-machine-learning-on-graphs-with-ontologies-graph-neural-networks,Thu 11:30 am - 1:00 pm
+Evaluating Link Prediction Explanations for Graph Neural Networks,"Claudio Borile, Alan Perotti, and Andre Panisson",xai-for-machine-learning-on-graphs-with-ontologies-graph-neural-networks,Thu 11:30 am - 1:00 pm
+Explaining Socio-demographic and Behavioral Patterns of Vaccination against the Swine Flu(H1N1) Pandemic,"Clara Punzi, Aleksandra Maslennikova, Gizem Gezici, Roberto, Pellungrini, Fosca Giannotti",explanations-for-advice-giving-systems,Thu 2:30 pm - 3:30 pm
+Explaining Search Result Stances to Opinionated People,"Zhangyi Wu, Tim Draws, Federico Cau, Francesco Barile, Alisa Rieger, and Nava Tintarev",explanations-for-advice-giving-systems,Thu 2:30 pm - 3:30 pm
+A Co-design Study for Multi-Stakeholder Job Recommender System Explanations,"Roan Schellingerhout, Francesco Barile and Nava Tintarev",explanations-for-advice-giving-systems,Thu 2:30 pm - 3:30 pm
+Semantic Meaningfulness: Evaluating Counterfactual Approaches for Real-World Plausibility and Feasibility,"Jacqueline Hollig, Aniek F. Markus, Jef de Slegte, Prachi Bagave",explanations-for-advice-giving-systems,Thu 2:30 pm - 3:30 pm
+Weighted Mutual Information for Out-Of-Distribution Detection,"Giacomo De Bernardi, Sara Narteni, Enrico, Cambiaso, Marco Muselli, Maurizio Mongelli1",xai-for-trustworthy-and-responsible-ai,Thu 2:30 pm - 3:30 pm
+Leveraging Group Contrastive Explanations for Handling Fairness,"Alessandro Castelnovo, Nicole Inverardi, Lorenzo Malandri, Fabio Mercorio, Mario Mezzanzanica, Andrea Seveso",xai-for-trustworthy-and-responsible-ai,Thu 2:30 pm - 3:30 pm
+LUCID–GAN: Conditional Generative Models to Locate Unfairness,"Andres Algaba, Carmen Mazijn, Carina Prunkl, Jan Danckaert, Vincent Ginis",xai-for-trustworthy-and-responsible-ai,Thu 2:30 pm - 3:30 pm
+The Importance of Distrust in AI,"Tobias M. Peters, Roel W. Visser",xai-for-trustworthy-and-responsible-ai,Thu 2:30 pm - 3:30 pm
+Integrating GPT-technologies with Decision Models for Explainability,"Alexandre Goossens , Jan Vanthienen",explainable-interpretable-ai-with-argumentation,Thu 3:30 pm - 4:30 pm
+Explainable Machine Learning via Argumentation,"Nicoletta Prentzas, Constantinos Pattichis. Antonis Kakas",explainable-interpretable-ai-with-argumentation,Thu 3:30 pm - 4:30 pm
+A novel structured argumentation framework for improved explainability of classification tasks,Lucas Rizzo,explainable-interpretable-ai-with-argumentation,Thu 3:30 pm - 4:30 pm
+Hardness of Deceptive Certificate Selection,Stephan Waldchen,explainable-interpretable-ai-with-argumentation,Thu 3:30 pm - 4:30 pm
+An Interactive XAI Interface with Application in Healthcare for Non-experts,"Jingyu Hu, Yizhu Liang, Weiyu Zhao, Kevin McAreavey, and Weiru Liu",xai-in-health-care,Thu 3:30 pm - 4:30 pm
+Federated Learning of Explainable Artificial Intelligence Models for Predicting Parkinson’s Disease Progression,"Jose Luis Corcuera Barcena, Pietro Ducange, Francesco Marcelloni, Alessandro Renda, and Fabrizio Ruffini",xai-in-health-care,Thu 3:30 pm - 4:30 pm
+Color Shadows 2: Assessing the Impact of XAI on Diagnostic Decision-Making,"Chiara Natali, Lorenzo Famiglini, Andrea Campagner, Giovanni Andrea La Maida, Enrico Gallazzi, and Federico Cabitza",xai-in-health-care,Thu 3:30 pm - 4:30 pm
+Selecting textural characteristics of chest X-Rays for pneumonia lesions classification with the integrated gradients XAI attribution method,"Oleksandr Davydko, Vladimir Pavlov, and Luca Longo",xai-in-health-care,Thu 3:30 pm - 4:30 pm
+The Xi method: unlocking the mysteries of regression with Statistics,Valentina Ghidini,approaches-and-strategies-for-xai,Fri 9:30 am - 11:00 am
+Do intermediate feature coalitions aid explainability of black-box models?,"Minal Suresh Patil, Kary Framling",approaches-and-strategies-for-xai,Fri 9:30 am - 11:00 am
+Strategies to exploit XAI to improve classification systems,"Andrea Apicella, Luca Di Lorenzo, Francesco, Isgro, Andrea Pollastro, Roberto Prevete",approaches-and-strategies-for-xai,Fri 9:30 am - 11:00 am
+Unfooling SHAP and SAGE: Knockoff Imputation for Shapley Values,"Kristin Blesch, Marvin N., Wright, David Watson",approaches-and-strategies-for-xai,Fri 9:30 am - 11:00 am
+Beyond Prediction Similarity: ShapGAP for Evaluating Faithful Surrogate Models in XAI,"Ettore Mariotti, Adarsa Sivaprasad, Jose Maria Alonso Moral",approaches-and-strategies-for-xai,Fri 9:30 am - 11:00 am
+Relating the Partial Dependence Plot and Permutation Feature Importance to the Data Generating Process,"Christoph Molnar, Timo Freiesleben, Gunnar Konig, Julia Herbinger, Tim Reisinger, Giuseppe Casalicchio, Marvin N. Wright, Bernd Bischl",methods-and-techniques-for-xai,Fri 9:30 am - 11:00 am
+Sanity Checks for Saliency Methods Explaining Object Detectors,"Deepan Chakravarthi Padmanabhan, Paul G. Plöger, Octavio Arriaga, Matias, Valdenegro-Toro",methods-and-techniques-for-xai,Fri 9:30 am - 11:00 am
+The Co-12 Recipe for Evaluating Interpretable Part-Prototype Image Classifiers,"Meike Nauta, Christin Seifert",methods-and-techniques-for-xai,Fri 9:30 am - 11:00 am
+IxDRL: A Novel Explainable Deep Reinforcement Learning Toolkit based on Analyses of Interestingness,"Pedro Sequeira, Melinda Gervasio",methods-and-techniques-for-xai,Fri 9:30 am - 11:00 am
+Reason to explain: Interactive contrastive explanations (REASONX),"Laura State, Salvatore Ruggieri, Franco Turini",methods-and-techniques-for-xai,Fri 9:30 am - 11:00 am
+An Exploration of the Latent Space of a Convolutional Variational Autoencoder for theGeneration of Musical Instrument Tones,"Anastasia Natsiou, Sean O’Leary, and Luca Longo",representational-learning-and-concept-extraction-for-xai,Fri 3:00 pm - 4:00 pm
+Improving local fidelity of LIME by CVAE,"Daisuke Yasui, Hirosh Sato, Masao Kubo",representational-learning-and-concept-extraction-for-xai,Fri 3:00 pm - 4:00 pm
+Outcome-Guided Counterfactuals from a Jointly Trained Generative Latent Space,"Eric Yeh, Pedro Sequeira, Jesse Hostetler, Melinda Gervasio",representational-learning-and-concept-extraction-for-xai,Fri 3:00 pm - 4:00 pm
+Scalable Concept Extraction in Industry 4.0,"Andres Felipe Posada-Moreno, Kai Muller, Florian Brillowski, Friedrich Solowjow, Thomas Gries, Sebastian Trimpe",representational-learning-and-concept-extraction-for-xai,Fri 3:00 pm - 4:00 pm
+State Graph Based Explanation Approach for Black-box Time Series Model,"Yiran Huang, Chaofan Li, Hansen Lu, Till Riedel, Michael Beigl",xai-for-time-series,Fri 3:00 pm - 4:00 pm
+A Deep Dive into Perturbationsas Evaluation Technique for Time Series XAI,"Udo Schlegel, Daniel A. Keim",xai-for-time-series,Fri 3:00 pm - 4:00 pm
+Causal-based Spatio-Temporal Graph Neural Networks for Industrial Internet of Things Multivariate Time Series Forecasting,"Amir Miraki, Austeja Dapkute, Vytautas Siozinys, Martynas Jonaitis, Reza Arghandeh",xai-for-time-series,Fri 3:00 pm - 4:00 pm
+Investigating the effect of pre-processing methods on model decision-making in EEG-based person identification,"Carlos Gómez Tapia, Bojan Bozic, Luca Longo",xai-for-time-series,Fri 3:00 pm - 4:00 pm
+"Boundaries of research: scope, assumptions, limitations and delimitations",,doctoral-consortium-c,Fri 4:30 pm - 5:30 pm
+Questions &amp; answers with professors &amp; post-docs,,doctoral-consortium-c,Fri 4:30 pm - 5:30 pm
+Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal,"Laura State, Hadrien Salat, Stefania Rubrichi, Zbigniew Smoreda",applications-for-xai,Fri 4:30 pm - 5:30 pm
+A Novel Architecture for Robust Explainable AI Approaches in Critical Object Detection Scenarios Based on Bayesian Neural Networks,"Daniel Gierse, Felix Neuburger, Thomas Kopinski1",applications-for-xai,Fri 4:30 pm - 5:30 pm
+Is LIME appropriate to explain polypharmacy prediction model ?,"Lynda Dib, Richard Khoury",applications-for-xai,Fri 4:30 pm - 5:30 pm
+Compare-xAI: Toward Unifying Functional Testing Methods for Post-hoc XAI Algorithms into a Multi-dimensional Benchmark,"Mohamed Karim Belaid, Richard Bornemann, Maximilian Rabus, Ralf Krestel, Eyke Hüllermeier",applications-for-xai,Fri 4:30 pm - 5:30 pm
+Natural Example-Based Explainability: a Survey,"Antonin Poche, Lucas Hervier, Mohamed-Chafik Bakkay",surveys-benchmarks-and-visual-representations-for-xai,Fri 4:30 pm - 5:30 pm
+Towards the Visualization of Aggregated Class Activation Maps to Analyse the Global Contribution of Class Features,"Igor Cheperanov, David Sessler, Alex Ulmer, Hendrik Lücke-Tieke, Jörn Kohlhammer",surveys-benchmarks-and-visual-representations-for-xai,Fri 4:30 pm - 5:30 pm
+Contrastive Visual Explanations for Reinforcement Learning via Counterfactual Rewards,"Xiaowei Liu, Kevin McAreavey, Weiru Liu",surveys-benchmarks-and-visual-representations-for-xai,Fri 4:30 pm - 5:30 pm
+Explainable Artificial Intelligence in Education: A Comprehensive Review,"Blerta Abazi Chaushi, Besnik Selimi, Agron Chaushi, Marika Apostolova",surveys-benchmarks-and-visual-representations-for-xai,Fri 4:30 pm - 5:30 pm
